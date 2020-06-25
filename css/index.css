@@ -50,7 +50,7 @@ nav ul li{
 .principal{
 	float: left;
 	margin: auto;
-	background-color: white;
+	background-color: #fdddca;
 	width: 699px;
 	height: 600px;
 	text-align: justify;
@@ -73,7 +73,7 @@ div p img{
 }
 .segundo{
 	float: right;
-	background-color: white;
+	background-color:#fdddca;
 	width: 240px;
 	height: 600px;
 }
